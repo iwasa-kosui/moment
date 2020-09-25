@@ -1,5 +1,5 @@
 import { module, test } from '../qunit';
-import moment from '../../moment';
+import moment from 'dayjs';
 import { isNearSpringDST } from '../helpers/dst';
 
 module('zone switching');

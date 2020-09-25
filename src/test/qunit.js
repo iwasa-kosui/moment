@@ -1,6 +1,6 @@
 /*global QUnit:false*/
 
-import moment from '../moment';
+import moment from 'dayjs';
 import {
     setupDeprecationHandler,
     teardownDeprecationHandler,

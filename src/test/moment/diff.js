@@ -1,5 +1,5 @@
 import { module, test } from '../qunit';
-import moment from '../../moment';
+import moment from 'dayjs';
 
 function equal(assert, a, b, message) {
     assert.ok(

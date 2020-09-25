@@ -1,6 +1,6 @@
 /*global QUnit:false*/
 
-import moment from '../moment';
+import moment from 'dayjs';
 import { defineCommonLocaleTests } from './helpers/common-locale';
 import {
     setupDeprecationHandler,

@@ -1,6 +1,6 @@
 import { test } from '../qunit';
 import { localeModule } from '../qunit-locale';
-import moment from '../../moment';
+import moment from 'dayjs';
 localeModule('ug-cn');
 
 test('parse', function (assert) {

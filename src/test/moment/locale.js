@@ -1,5 +1,5 @@
 import { module, test } from '../qunit';
-import moment from '../../moment';
+import moment from 'dayjs';
 import each from '../helpers/each';
 import indexOf from '../../lib/utils/index-of';
 

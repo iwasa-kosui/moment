@@ -1,6 +1,6 @@
 import { test } from '../qunit';
 import eachOwnProp from './each-own-prop';
-import moment from '../../moment';
+import moment from 'dayjs';
 
 export function defineCommonLocaleTests(locale, options) {
     test('lenient day of month ordinal parsing', function (assert) {

@@ -1,6 +1,6 @@
 import { module, test } from '../qunit';
 import eachOwnProp from '../helpers/each-own-prop';
-import moment from '../../moment';
+import moment from 'dayjs';
 
 module('format');
 

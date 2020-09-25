@@ -108,5 +108,8 @@
         "output": [
             "locale/*.js"
         ]
+    },
+    "dependencies": {
+        "dayjs": "^1.8.36"
     }
 }

@@ -1,4 +1,4 @@
-import moment from '../../moment';
+import moment from 'dayjs';
 
 export function isNearSpringDST() {
     return (

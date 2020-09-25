@@ -1,6 +1,6 @@
 import { module, test } from '../qunit';
 import each from '../helpers/each';
-import moment from '../../moment';
+import moment from 'dayjs';
 
 module('is valid');
 
